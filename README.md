@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @KashmirDc
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🎓 Computer Science graduate | 💻 Passionate about coding & real-world problem-solving | 🤝 Eager to collaborate with engineers & build impactful software | 🚀 Lifelong learner | 🧠 Psychology & tech enthusiast | 🥋 Taekwondo athlete & gym rat — let’s connect and create something powerful.
 
 <!---
 KashmirDc/KashmirDc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
